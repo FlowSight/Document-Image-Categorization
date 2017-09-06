@@ -4,6 +4,7 @@ Machine learning based approach to classify scanned images of documents (written
 Unzip the package and copy the Folder in working directory.
 
 NOTE: The dataset is not uploaded in the repository. Own data set can be created by uploaded scanned images of documents from given 4 cateories.
+Some of the packages used are only available only for educational purposes and should not be used commercially.
 
 
 *************************
